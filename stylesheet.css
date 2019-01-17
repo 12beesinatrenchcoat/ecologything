@@ -1,25 +1,26 @@
 body{
-	background-image: linear-gradient(to bottom, CornflowerBlue, DarkSlateBlue);
+	background-image: linear-gradient(to bottom, DeepSkyBlue, DarkSlateBlue);
 	padding:10%;
+	padding-top:5%;
 	color:white;
 }
 
 h1{
 	font-family: 'Charm', cursive;
-	font-size: 4em;
-	margin-bottom: -36px;
-	text-align:center;
+	font-size: 3em;
+	margin-bottom: -24px;
 }
 
 h2{
 	font-family: 'Cousine', monospace;
-	text-align:center;
-	font-size: 2em;
+	font-size: 1.5em;
+	margin-bottom: 12px
 }
 
 p{
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 1.5em
+	font-size: 1.5em;
+	text-align:center;
 }
 
 #intertidal{
