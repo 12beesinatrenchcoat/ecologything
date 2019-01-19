@@ -10,7 +10,7 @@ I was supposed to create a visual or something, but I'm bad at that, so let's ma
 It's a mess.
 
 ## Credits
-Credits can be found [here](https://andythepie.github.io/ecologything/credits). Text-only version will be found here after all is done.
+Credits can be found [here](https://andythepie.github.io/ecologything/extra/credits). Text-only version will be found here after all is done.
 
 ## I found an error!
 Cool. It'd kinda help if you maybe... [told me.](https://github.com/AndyThePie/ecologything/issues)
