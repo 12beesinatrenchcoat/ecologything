@@ -1,12 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Charm:700|Cousine|Source+Sans+Pro&subset=latin-ext');
+
 body{
 	background-image: linear-gradient(to bottom, DeepSkyBlue, DarkSlateBlue);
-	padding:10%;
-	padding-top:5%;
+	margin:10%;
+	margin-top:5%;
 	color:white;
 }
 
 h1{
-	font-family: 'Charm', cursive;
+	font-family: 'Charm', serif;
 	font-size: 3em;
 	margin-bottom: -24px;
 }
@@ -19,14 +21,34 @@ h2{
 
 p{
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 1.5em;
+	font-size: 1.3em;
+	line-height: 150%;
 	text-align:center;
 }
 
-#intertidal{
-	color: #e6e600;	
+hr{
+	color:white;
+	border-width: medium;
+	border-style: dashed;
+	opacity: 50%;
+}
+
+.header{
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	background-color: darkslategrey;
+	font-family: 'Cousine', monospace;
+	font-size: 1em;
+	padding: 1% 2% 1%;
+}
+
+.header a{
+	color: white;
+	padding: 2px 4px 2px;
 }
 
 .link{
-	color: white
+	color:white;
 }

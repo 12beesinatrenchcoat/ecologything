@@ -1,0 +1,23 @@
+/* stylesheetx.css is a stylesheet for the credits.
+It's supposed to be light, at least lighter than the other stylesheet.*/
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body{
+    background-color:darkslategrey;
+    padding:24px;
+    font-family: 'Source Sans Pro', 'sans-serif';
+    color:white;
+    text-align: center;
+}
+
+hr{
+    color:white;
+}
+h1{
+    margin-top: -14px;
+}
+
+a{
+    color:white;
+}
