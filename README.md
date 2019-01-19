@@ -10,11 +10,10 @@ I was supposed to create a visual or something, but I'm bad at that, so let's ma
 It's a mess.
 
 ## Credits
-*to be written.*
+Credits can be found [here](https://andythepie.github.io/ecologything/credits). Text-only version will be found here after all is done.
 
 ## I found an error!
 Cool. It'd kinda help if you maybe... [told me.](https://github.com/AndyThePie/ecologything/issues)
 
 # Licensing
-You can use whatever you want here.
 All code is under the [Unlicense](https://github.com/AndyThePie/ecologything/blob/master/LICENSE), all text is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), images may have their own respective licenses.
