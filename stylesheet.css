@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Charm:700|Cousine|Source+Sans+Pro&subset=latin-ext');
 
 body{
-	background-image: linear-gradient(to bottom, DeepSkyBlue, DarkSlateBlue);
+	background-image: linear-gradient(to bottom, DeepSkyBlue, #241f47);
 	margin:10%;
 	margin-top:5%;
 	color:white;
@@ -64,6 +64,16 @@ img{
 	float: left;
 }
 
+.floatr{
+	text-align: right;
+	float:right;
+}
+
 .link{
 	color:white;
+}
+
+.hoverable{
+	text-decoration: underline;
+	text-decoration-style: dashed;
 }
