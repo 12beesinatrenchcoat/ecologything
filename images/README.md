@@ -6,6 +6,6 @@ So, in order of usage:
 
 *sea_urchin.jpg* / ["Sea urchin #seabed #marinelife #sealife #underwater #seaurchin #ibiza #sanantonioibiza #spain"](https://www.flickr.com/photos/83232559@N00/21414360776) by [Phil Guest](https://www.flickr.com/photos/83232559@N00) is licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0).
 
-Vampyroteuthis_infernalis.png / ["Vampyroteuthis infernalis"](https://commons.wikimedia.org/wiki/File:Vampyroteuthis_infernalis.jpg) by Carl Chun is **Public Domain.**
+*Vampyroteuthis_infernalis.png* / ["Vampyroteuthis infernalis"](https://commons.wikimedia.org/wiki/File:Vampyroteuthis_infernalis.jpg) by Carl Chun is **Public Domain.**
 
-anglerfish.jpg / [Angler Fish](https://www.flickr.com/photos/justinlindsay/82532887) by [Justin](https://www.flickr.com/photos/justinlindsay/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
+*anglerfish.jpg* / [Angler Fish](https://www.flickr.com/photos/justinlindsay/82532887) by [Justin](https://www.flickr.com/photos/justinlindsay/) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/).
