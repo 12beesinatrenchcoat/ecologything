@@ -1,7 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Charm:700|Cousine|Source+Sans+Pro&subset=latin-ext');
 
-body{
+html{
     background: linear-gradient(to bottom, #00bfff -5%, #241f47 90%, #241f47 99.95%, #70670f 99.95%);
+}
+main{
+    background-image: url(images/background-tile-export.png);
+    background-blend-mode:luminosity;
+    background-position: center;
+}
+
+
+body{
 	margin:10%;
 	margin-top:5%;
 	color:white;
@@ -51,8 +60,8 @@ header a{
 }
 
 img{
-	height: 25%;
-	width: 25%;
+	height: 35%;
+	width: 35%;
 	border: 6px double white;
 	padding: 2px;
 }
