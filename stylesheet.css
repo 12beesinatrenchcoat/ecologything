@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Charm:700|Cousine|Source+Sans+Pro&subset=latin-ext');
 
 body{
-	background-image: linear-gradient(to bottom, DeepSkyBlue, #241f47);
+    background: linear-gradient(to bottom, #00bfff -5%, #241f47 90%, #241f47 99.95%, #70670f 99.95%);
 	margin:10%;
 	margin-top:5%;
 	color:white;
+	text-align: center
 }
 
 h1{
@@ -23,12 +24,10 @@ p, li{
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.3em;
 	line-height: 150%;
-	text-align:center;
 }
 
 hr{
 	color:white;
-
 }
 
 header{
@@ -38,18 +37,14 @@ header{
 	width:100%;
 	background-color: darkslategrey;
 	font-family: 'Cousine', monospace;
-	font-size: 1em;
+	font-size: 1rem;
 	padding: 1% 2% 1%;
+	text-align: left;
 }
 
 header a{
 	color: white;
 	padding: 2px 4px 2px;
-}
-
-figcaption{
-	font-family: serif;
-	font-style: italic;
 }
 
 img{
@@ -59,14 +54,13 @@ img{
 	padding: 2px;
 }
 
-.float{
-	text-align: left;
-	float: left;
-}
-
-.floatr{
-	text-align: right;
-	float:right;
+footer{
+	position: absolute;
+	background-color: #70670f;
+	width:100%;
+	left: 0px;
+	right: 0px;
+	margin-top: -12px;
 }
 
 .link{

@@ -17,4 +17,4 @@ Cool. It'd kinda help if you maybe... [told me.](https://github.com/AndyThePie/e
 
 # Licensing
 You can use whatever you want here.
-All code is under the [Unlicense](https://github.com/AndyThePie/ecologything/blob/master/LICENSE), all text is under [CC0](https://creativecommons.org/publicdomain/zero/1.0/), images have their own respective licenses, please check the [README.md in /images](https://github.com/AndyThePie/ecologything/blob/master/images/README.md).
+All code is under the [Unlicense](https://github.com/AndyThePie/ecologything/blob/master/LICENSE).
