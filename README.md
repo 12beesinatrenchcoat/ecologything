@@ -9,12 +9,9 @@ I was supposed to create a visual or something, but I'm bad at that, so let's ma
 ## Code Style
 It's a mess. Look at your own risk.
 
-## Credits
-*to be written.*
-
 ## I found an error!
 Cool. It'd kinda help if you maybe... [told me.](https://github.com/AndyThePie/ecologything/issues)
 
 # Licensing
 You can use whatever you want here.
-All code is under the [Unlicense](https://github.com/AndyThePie/ecologything/blob/master/LICENSE).
+All code is under the [Unlicense](https://github.com/AndyThePie/ecologything/blob/master/LICENSE). All files here can be used anywhere you want, I don't care, I won't sue.
